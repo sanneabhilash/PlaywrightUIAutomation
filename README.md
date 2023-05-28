@@ -16,4 +16,5 @@ TODO:
 - clipboard copy paste
 - API request validation
 - Cross-browser, multi project support
-- 
+- Network API call Response time capture
+- DataDriven/Parameterized tests with static and dynamic data
